@@ -4,7 +4,7 @@
 </div>
 
 > [!IMPORTANT]
-> I Have moved my personal activity to [codeberg](https://codeberg.org/einetuer).
+> I have moved my personal activity to [codeberg](https://codeberg.org/einetuer).
 > Dead repositories will be moved on activity and this account will be mostly used for forks (which i seem to have quite a lot of)
 
 <h2 align="left">Technology I like</h2>
