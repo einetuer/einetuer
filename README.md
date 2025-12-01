@@ -4,8 +4,8 @@
 </div>
 
 > [!IMPORTANT]
-> I have moved my personal activity to [codeberg](https://codeberg.org/einetuer).
-> Dead repositories will be moved on activity and this account will be mostly used for forks (which i seem to have quite a lot of)
+> I have moved my personal activity to [codeberg](https://codeberg.org/einetuer), this account will remain only for forks (which i seem to have quite a lot of). Worthy repos have been moved immediatly and I've archived them here.
+> Dead repositories will be moved on activity (unless there is a GOOD reason why they should stay on github, you are at my mercy)
 
 <h2 align="left">Technology I like</h2>
 
