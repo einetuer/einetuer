@@ -3,6 +3,10 @@
   <img src="https://media.giphy.com/media/8JTFsZmnTR1Rs1JFVP/giphy.gif" width="500"/>
 </div>
 
+> [!IMPORTANT]
+> I Have moved my personal activity to [codeberg](https://codeberg.org/einetuer).
+> Dead repositories will be moved on activity and this account will be mostly used for forks (which i seem to have quite a lot of)
+
 <h2 align="left">Technology I like</h2>
 
 <div align="left">
